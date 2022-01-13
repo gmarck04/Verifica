@@ -13,6 +13,9 @@ treno Merci è di 100€ mentre per il Passeggeri è 150€;
 3) Il costo totale dei i due mezzi.
 
 tempo di svolgimento 1h.
+
+
+Link: https://github.com/gmarck04/Verifica
  */
 
 using System;
