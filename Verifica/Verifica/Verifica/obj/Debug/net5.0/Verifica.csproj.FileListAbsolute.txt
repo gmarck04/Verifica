@@ -1,0 +1,16 @@
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.exe
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.deps.json
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.runtimeconfig.json
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.runtimeconfig.dev.json
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.dll
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\ref\Verifica.dll
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\bin\Debug\net5.0\Verifica.pdb
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.csproj.AssemblyReference.cache
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.GeneratedMSBuildEditorConfig.editorconfig
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.AssemblyInfoInputs.cache
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.AssemblyInfo.cs
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.dll
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\ref\Verifica.dll
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.pdb
+G:\Il mio Drive\Portatile\Scuola\Anno scolastico 2021-22\Informatica\Verifica\Verifica\Verifica\obj\Debug\net5.0\Verifica.genruntimeconfig.cache
